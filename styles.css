@@ -1,1 +1,36 @@
 /*  your css code here. If applicable */
+*{
+  margin:0px;
+	padding:0px;
+	
+}
+body{
+	background-color:#cccccc;
+}
+.main{
+	display:flex;
+	align-items: center;
+  justify-content: center;
+	flex-direction:column;
+
+	
+}
+.player_one{
+	background-color:white;
+	border:1px solid black;
+	display:flex;
+	flex-direction:column;
+	border-radius:5px;
+	width:100%;
+	padding:10px;
+	margin:10px;
+}
+.player_two{
+	background-color:white;
+	border:1px solid black;
+	border-radius:5px;
+	padding:5px;
+	display:flex;
+	flex-direction:column;
+	row-gap:15px;
+}
