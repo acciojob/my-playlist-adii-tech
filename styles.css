@@ -40,3 +40,6 @@ a{
 	text-decoration-line:none;
 	color:black;
 }
+li{
+	list-style-type="none"
+}
