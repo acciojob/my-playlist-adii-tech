@@ -18,12 +18,14 @@ body{
 .player_one{
 	background-color:white;
 	border:1px solid black;
-	display:flex;
-	flex-direction:column;
 	border-radius:5px;
 	width:100%;
 	padding:10px;
 	margin:10px;
+}
+ul{
+	display:flex;
+	flex-direction:column;
 }
 .player_two{
 	background-color:white;
