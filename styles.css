@@ -36,3 +36,7 @@ ul{
 	flex-direction:column;
 	row-gap:15px;
 }
+a{
+	text-decoration-line:none;
+	color:black;
+}
